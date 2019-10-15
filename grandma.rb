@@ -39,9 +39,11 @@
 
 
 def speak_to_grandma
-  grandma = "loud"
+  grandma = "I LOVE YOU GRANDMA!"
   
-  if grandma == "Hi Nana, how are you?"
+  if grandma == "I LOVE YOU GRANDMA!"
+    puts ""
+    
     
   
   
