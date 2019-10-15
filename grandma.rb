@@ -42,7 +42,11 @@ def speak_to_grandma
   grandma = "I LOVE YOU GRANDMA!"
   
   if grandma == "I LOVE YOU GRANDMA!"
-    puts ""
+    puts "I LOVE YOU TOO #PUMPKIN!"
+    
+  else 
+    puts "HUH?! SPEAK UP, SONNY!"
+    
     
     
   
